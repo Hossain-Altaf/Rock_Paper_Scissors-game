@@ -55,7 +55,7 @@ img {
 }
 
 .msg-container {
-  margin-top: 3.5rem;
+  margin-top: 3rem;
 }
 
 #msg {
@@ -65,4 +65,22 @@ img {
   display: inline;
   padding: 1rem;
   border-radius: 1rem;
+}
+
+footer {
+  margin-top: 3rem;
+  padding: .5rem 0;
+  background: #46678d;
+  color: #fff;
+  font-size: 1rem;
+}
+
+footer a {
+  color: #ffd700;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+footer a:hover {
+  text-decoration: underline;
 }
